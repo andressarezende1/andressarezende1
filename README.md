@@ -1,6 +1,8 @@
 ## Olá, sou a Andressa Rezende 👋
 
-Bem-vindos ao meu perfil no GitHub! Aqui, compartilho os projetos que desenvolvo para aprimorar minhas habilidades. Alguns estão em andamento e precisam de melhorias. Se tiverem sugestões ou novas ideias sobre os projetos, ficarei muito feliz em trocar ideias!
+Bem-vindos ao meu perfil no GitHub! 
+
+Aqui, compartilho os projetos que desenvolvo para aprimorar minhas habilidades. Alguns estão em andamento e precisam de melhorias. Se tiverem sugestões ou novas ideias sobre os projetos, ficarei muito feliz em trocar ideias 🥰!
 
 <h4>Sobre mim</h4>
 
