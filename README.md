@@ -9,7 +9,7 @@ Aqui, compartilho os projetos que desenvolvo para aprimorar minhas habilidades. 
 - 👩‍🎓 Sou Técnica em Informática pelo IFG
 - 📚 Sou estudante de Engenharia de Software na UniEvángelica
 - 🌎 Moro em Anápolis-Goiás
-- 🔭 Atualmente estou estagiando com o cargo de QA na empresa SoftNews
+<!-- 🔭 Atualmente estou estagiando como QA na empresa SoftNews. -->
 - 🌱 No momento estou aprendendo e desenvolvendo com o Framework React
 - 😄 Pronomes: Ela/dela
 
