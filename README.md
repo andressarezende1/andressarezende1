@@ -8,9 +8,7 @@ Aqui, compartilho os projetos que desenvolvo para aprimorar minhas habilidades. 
 
 - 👩‍🎓 Sou Técnica em Informática pelo IFG
 - 📚 Sou estudante de Engenharia de Software na UniEvángelica
-- 🌎 Moro em Anápolis-Goiás
 - 🌱 No momento estou aprendendo e desenvolvendo com o Framework React
-- 😄 Pronomes: Ela/dela
 
 <h4>Skills</h4>
 <div style="display: inline_block"><br>
