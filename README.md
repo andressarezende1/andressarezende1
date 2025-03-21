@@ -21,7 +21,6 @@ Aqui, compartilho os projetos que desenvolvo para aprimorar minhas habilidades. 
  ##
  <h4>Meios de Contatos: </h4>
 <div> 
-  <a href="https://www.instagram.com/andressa.rezende.10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andressa.122rezende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andressa-rezende-087582299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
