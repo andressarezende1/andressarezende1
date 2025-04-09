@@ -2,13 +2,13 @@
 
 Bem-vindos ao meu perfil no GitHub! 
 
-Aqui, compartilho os projetos que desenvolvo para aprimorar minhas habilidades. Alguns estão em andamento e precisam de melhorias. Se tiverem sugestões ou novas ideias sobre os projetos, ficarei muito feliz em trocar ideias 🥰!
+Aqui, compartilho os projetos que desenvolvo para aprimorar minhas habilidades.
 
 <h4>Sobre mim</h4>
 
 - 👩‍🎓 Sou Técnica em Informática pelo IFG
 - 📚 Sou estudante de Engenharia de Software na UniEvángelica
-- 🌱 No momento estou aprendendo e desenvolvendo com o Framework React
+- 🌱 Desenvolvimento Web
 
 <h4>Skills</h4>
 <div style="display: inline_block"><br>
