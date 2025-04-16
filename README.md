@@ -2,14 +2,15 @@
 
 Bem-vindos ao meu perfil no GitHub! 
 
-Aqui, compartilho os projetos que desenvolvo para aprimorar minhas habilidades.
+Aqui, compartilho os projetos que desenvolvo para aprimorar minhas habilidades técnicas.
 
 <h4>Sobre mim</h4>
 
 - 👩‍🎓 Sou Técnica em Informática pelo IFG
-- 📚 Sou estudante de Engenharia de Software na UniEvángelica
-- 🌱 Desenvolvimento Web
+- 📚 Sou estudante em Engenharia de Software na UniEvángelica
+- 🌱 Conhecimento em Desenvolvimento Web
 
+##
 <h4>Skills</h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
