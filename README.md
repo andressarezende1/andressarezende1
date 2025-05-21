@@ -6,8 +6,8 @@ Aqui, compartilho os projetos que desenvolvo para aprimorar minhas habilidades t
 
 <h4>Sobre mim</h4>
 
-- 👩‍🎓 Sou Técnica em Informática pelo IFG
-- 📚 Sou estudante em Engenharia de Software na UniEvángelica
+- 👩‍🎓 Técnica em Informática pelo IFG
+- 📚 Estudante em Engenharia de Software na UniEvángelica
 - 🌱 Conhecimento em Desenvolvimento Web
 
 ##
